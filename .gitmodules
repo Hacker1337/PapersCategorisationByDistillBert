@@ -1,0 +1,3 @@
+[submodule "article_classifier"]
+	path = article_classifier
+	url = ./article_classifier
